@@ -1,1 +1,1 @@
-# GraphL-Deno-Demo
+# GraphQL-Deno-Demo
